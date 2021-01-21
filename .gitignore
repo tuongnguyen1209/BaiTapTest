@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Bai2/nbproject/private/
+/Bai1/build/
+/Bai3/nbproject/private/
+/Bai3/build/
+/Bai4/nbproject/private/
+/Bai4/build/
+/Bai5/nbproject/private/
+/Bai5/build/
+/Bai2/build/
