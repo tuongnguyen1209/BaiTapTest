@@ -37,9 +37,13 @@ public class Bai2 {
         
         Random random=new Random();
         int[] arr=new int[5000];
+        
         for (int i = 0; i < arr.length; i++) {
             arr[i]=random.nextInt()/100000000;
         }
+//        int[] arr={0};
+//        int[] arr={};
+//        int[] arr={-1,0,1,2,-1,-4};
         System.out.println("So phan tu cua mang: "+arr.length);
         System.out.println("===Mang===");
         System.out.println(Arrays.toString(arr));
